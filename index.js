@@ -46,7 +46,7 @@ const questions = [
 
     {
         question: "How does Monkeypox Spread?",
-        optionA: "Through Intmate Contact",
+        optionA: "Through Intimate Contact",
         optionB: "Through Yawning",
         optionC: "Through Dancing",
         optionD: "Through Phone Calls",
